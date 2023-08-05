@@ -1,0 +1,1 @@
+const I_AM_HERO= ;
